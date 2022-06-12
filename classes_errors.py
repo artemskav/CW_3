@@ -1,0 +1,2 @@
+class DataFileBrokenException(Exception):
+    pass
